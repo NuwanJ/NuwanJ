@@ -8,17 +8,9 @@ _Undergraduate, Department of Computer Engineering, University of Peradeniya_
 [![Hackerrank](https://nuwanjaliyagoda.com/img/ico/hackerrank-128.png)](https://www.hackerrank.com/NuwanJ)
 [![Blogger](https://nuwanjaliyagoda.com/img/ico/blogger-36.png)](https://nuwanjaliyagoda.blogspot.com/)
 
-Find more about me on [nuwanjaliyagoda.com](https://nuwanjaliyagoda.com/home/)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Find more about me on [nuwanjaliyagoda.com](https://nuwanjaliyagoda.com/home/)
 
 
 <!--
