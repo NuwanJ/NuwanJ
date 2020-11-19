@@ -1,6 +1,8 @@
 ## Nuwan Jaliyagoda
 _Undergraduate, Department of Computer Engineering, University of Peradeniya_
 
+Web: [nuwanjaliyagoda.com](https://nuwanjaliyagoda.com/home/)
+
 [![Linkedin](https://nuwanjaliyagoda.com/img/ico/linkedin-128.png)](https://www.linkedin.com/in/nuwan-jaliyagoda/)
 [![Facebook](https://nuwanjaliyagoda.com/img/ico/facebook-128.png)](https://www.facebook.com/nuwan.jaliyagoda)
 [![Youtube](https://nuwanjaliyagoda.com/img/ico/youtube-128.png)](https://www.youtube.com/channel/UC1EaR2mO0KTP4RjKe__wgqA)
@@ -8,9 +10,7 @@ _Undergraduate, Department of Computer Engineering, University of Peradeniya_
 [![Hackerrank](https://nuwanjaliyagoda.com/img/ico/hackerrank-128.png)](https://www.hackerrank.com/NuwanJ)
 [![Blogger](https://nuwanjaliyagoda.com/img/ico/blogger-36.png)](https://nuwanjaliyagoda.blogspot.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Find more about me on [nuwanjaliyagoda.com](https://nuwanjaliyagoda.com/home/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuwanj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
