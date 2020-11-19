@@ -10,7 +10,7 @@ Web: [nuwanjaliyagoda.com](https://nuwanjaliyagoda.com/home/)
 [![Hackerrank](https://nuwanjaliyagoda.com/img/ico/hackerrank-128.png)](https://www.hackerrank.com/NuwanJ)
 [![Blogger](https://nuwanjaliyagoda.com/img/ico/blogger-36.png)](https://nuwanjaliyagoda.blogspot.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuwanj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuwanJ&langs_count=8&layout=compact)](#)
 
 
 <!--
