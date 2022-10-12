@@ -26,7 +26,7 @@
     <a style="padding: 4px;" href="https://instagram.com/nuwanjaliyagoda" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="nuwanjaliyagoda" height="30" width="40" /></a>
-    <a style="padding: 4px;" href="https://www.youtube.com/c/uc1ear2mo0ktp4rjke__wgqa" target="blank"><img align="center"
+    <a style="padding: 4px;" href="https://www.youtube.com/channel/UC1EaR2mO0KTP4RjKe__wgqA" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="uc1ear2mo0ktp4rjke__wgqa" height="30" width="40" /></a>
     <a style="padding: 4px;" href="https://www.hackerrank.com/nuwanj" target="blank"><img align="center"
@@ -151,5 +151,7 @@
 
 <hr>
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=nuwanj&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanj" />
+    <img src="https://komarev.com/ghpvc/?username=nuwanj&label=Profile%20Views&color=blue&style=flat-square" alt="nuwanj" />
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=11540782)

@@ -27,7 +27,7 @@
     "badgeStyle": "flat",
     "badgeColor": "0e75b6",
     "badgeLabel": "Profile views",
-    "githubProfileTrophy": true,
+    "githubProfileTrophy": false,
     "githubStats": false,
     "githubStatsOptions": {
       "theme": "",
@@ -76,7 +76,7 @@
     "dribbble": "",
     "behance": "",
     "medium": "",
-    "youtube": "uc1ear2mo0ktp4rjke__wgqa",
+    "youtube": "channel/UC1EaR2mO0KTP4RjKe__wgqA",
     "codechef": "",
     "hackerrank": "nuwanj",
     "codeforces": "",
