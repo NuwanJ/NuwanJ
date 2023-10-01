@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nuwan Jaliyagoda</h1>
-<h3 align="center">Software Engineer at Rhino Partners | DIY Enthusiast</h3>
-
-<!-- <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=nuwanj" alt="nuwanj" />
-    </a>
-</p> -->
+<h3 align="center">Senior Software Engineer at Rhino Partners | DIY Enthusiast</h3>
 
 <br>
 
 - 👨‍💻 All of my projects are available at [https://nuwanjaliyagoda.com/projects](https://nuwanjaliyagoda.com/projects)
 - 📝 I regularly write articles on [https://nuwanjaliyagoda.com/blog](https://nuwanjaliyagoda.com/blog)
 - 📫 How to reach me [https://nuwanjaliyagoda.com](https://nuwanjaliyagoda.com)
-- 📄 Know about my experiences [https://nuwanjaliyagoda.com/cv/](https://nuwanjaliyagoda.com/cv/)
+- 📄 To know about my experiences [https://nuwanjaliyagoda.com/cv/](https://nuwanjaliyagoda.com/cv/)
 
 <br>
 <h3 align="left">Connect with me:</h3>
