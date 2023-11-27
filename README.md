@@ -138,8 +138,11 @@
 <br>
 <h3 align="left">GitHub Contributions:</h3>
 
-![GitHub Snake Light](./dist/github-contribution-grid-snake#gh-light-mode-only)
-![GitHub Snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <br>
 
