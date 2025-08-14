@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuwan Jaliyagoda</h1>
-<h3 align="center">Senior Software Engineer at Rhino Partners | DIY Enthusiast | MSc (Reading) - University of Westminster</h3>
+<h3 align="center">Senior Software Engineer at Rhino Partners | DIY Enthusiast | MSc - University of Westminster</h3>
 
 ---
 
@@ -109,3 +109,4 @@
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=11540782)
+
