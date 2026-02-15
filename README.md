@@ -91,6 +91,20 @@
 
 ---
 
+### Badges
+
+#### Hackerrank
+
+<img height="120" alt="Hackerrank Badges" src="https://github.com/user-attachments/assets/d4f927b1-af7d-4454-a9db-657f49eddf89" />
+
+#### Databricks
+
+<img width="200" height="200" alt="Databricks Certified Generative AI Engineer Associate" src="https://github.com/user-attachments/assets/3164d034-4e2c-4e55-9401-ff50234875ce" />
+<img width="200" height="200" alt="Databricks Certified Machine Learning Associate" src="https://github.com/user-attachments/assets/82799c1e-bd6d-4ffe-8b4c-10bd2ecae297" />
+<img width="200" height="200" alt="Advanced Machine Learning Operations" src="https://github.com/user-attachments/assets/d7f8bb62-8b5a-4dcd-b3ef-7b853e2bcb4a" />
+
+---
+
 ### 📊 GitHub Contributions
 
 <picture>
@@ -110,6 +124,7 @@
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=11540782)
+
 
 
 
